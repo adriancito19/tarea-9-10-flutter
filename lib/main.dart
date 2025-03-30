@@ -164,7 +164,7 @@ class _NameAndLocationScreenState extends State<NameAndLocationScreen> {
       ),
     );
   }
-
+// realizado por Adrian Alberto Gonzalez Familia 20230608
   bool _validateInputs() {
     if (_nameController.text.isEmpty ||
         _surnameController.text.isEmpty ||
